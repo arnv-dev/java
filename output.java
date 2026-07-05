@@ -14,6 +14,6 @@ public class output {
     }
 }
 
-//System: Systemis a final class present in the java.lang package. It provides access to system-related resources such as input, output, and error streams.
+//System: System is a final class present in the java.lang package. It provides access to system-related resources such as input, output, and error streams.
 //out: out is a public static object of type PrintStream defined inside the System class. It represents the standard output stream, usually the console.
 //println(): println() is a method of the PrintStream class. It prints the specified value and then adds a new line at the end of the output. It is an enhanced version of print().
