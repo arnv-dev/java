@@ -1,10 +1,4 @@
-//Import the Scanner class using import java.util.Scanner;
-//2. Create a Scanner object Scanner sc = new Scanner(System.in); // System.in represents standard input (keyboard).
-//3. When we want to ask the user for input, first print a prompt message so they know what to enter. Then use one of Scanner's handy methods to read the response:
-//nextInt() for whole numbers
-//nextLine() for full text lines
-//nextDouble() for decimal numbers
-//next() for single words
+
 
 import java.util.Scanner;
 
