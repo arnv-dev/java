@@ -34,4 +34,6 @@ public class variables{
         System.out.println("Name: " + name);        
         System.out.println("Salary: " + salary);
      }
+
+     
 }
